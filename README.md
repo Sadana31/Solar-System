@@ -1,2 +1,2 @@
-# Solar-System
-A representation of the solar system where the sun grows bigger coded with Visual Studio Code
+# p5.play-boilerplate
+Boiler plate for p5.play
